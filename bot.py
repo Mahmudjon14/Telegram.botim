@@ -5,7 +5,7 @@ import logging
 
 # Log sozlamalari
 logging.basicConfig(level=logging.INFO)
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "7812379714:AAHeBy8IFoFZ60B8KRNIriSuDRYf_VlRVPs"
 
 categories = {
     "🛠 Qurilish asboblari": ["Perforator", "Drel", "Bulgar"],
